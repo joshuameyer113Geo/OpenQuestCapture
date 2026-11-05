@@ -4,3 +4,6 @@
 [submodule "quest-3d-reconstruction"]
 	path = quest-3d-reconstruction
 	url = https://github.com/samuelm2/quest-3d-reconstruction.git
+[submodule "harness"]
+	path = harness
+	url = https://github.com/joshuameyer113Geo/q-agent-harness.git
